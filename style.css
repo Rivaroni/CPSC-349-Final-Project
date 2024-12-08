@@ -359,10 +359,12 @@ article .icon {
 }
 
 .project-img {
-    border-radius: 2rem;
-    width: 90%;
-    height: 90%;
+    border-radius: 2rem; 
+    width: 100%; 
+    height: 300px; 
+    object-fit: cover; 
 }
+
 
 .project-title {
     margin: 1rem;
